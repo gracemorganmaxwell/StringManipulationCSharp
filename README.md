@@ -1,6 +1,6 @@
 # String Manipulation in C Sharp
 
-Welcome, and thank you for viewing my String Manipulator program 3000 
+Welcome, and thank you for viewing my String Manipulator program in C#.
 
 ## Brief: 
 
