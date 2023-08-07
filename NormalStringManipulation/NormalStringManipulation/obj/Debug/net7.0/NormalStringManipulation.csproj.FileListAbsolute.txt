@@ -1,0 +1,15 @@
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/bin/Debug/net7.0/NormalStringManipulation
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/bin/Debug/net7.0/NormalStringManipulation.deps.json
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/bin/Debug/net7.0/NormalStringManipulation.runtimeconfig.json
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/bin/Debug/net7.0/NormalStringManipulation.dll
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/bin/Debug/net7.0/NormalStringManipulation.pdb
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/obj/Debug/net7.0/NormalStringManipulation.csproj.AssemblyReference.cache
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/obj/Debug/net7.0/NormalStringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/obj/Debug/net7.0/NormalStringManipulation.AssemblyInfoInputs.cache
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/obj/Debug/net7.0/NormalStringManipulation.AssemblyInfo.cs
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/obj/Debug/net7.0/NormalStringManipulation.csproj.CoreCompileInputs.cache
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/obj/Debug/net7.0/NormalStringManipulation.dll
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/obj/Debug/net7.0/refint/NormalStringManipulation.dll
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/obj/Debug/net7.0/NormalStringManipulation.pdb
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/obj/Debug/net7.0/NormalStringManipulation.genruntimeconfig.cache
+/Users/graceelizabethmorgan-maxwell/Projects/NormalStringManipulation/NormalStringManipulation/obj/Debug/net7.0/ref/NormalStringManipulation.dll
